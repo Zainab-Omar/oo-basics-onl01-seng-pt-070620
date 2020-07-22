@@ -1,2 +1,7 @@
 # Make your shoe class here!
-class 
+class shoe
+  def initialize(shoe)
+    @shoe=shoe
+  end
+  
+end
